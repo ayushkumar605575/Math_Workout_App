@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Maths Workout</string>
+    <string name="normal_table">%1$s X %2$s = %3$s</string>
+    <string name="power_table">%1$s ^ %2$s = %3$s</string>
+    <string name="table_of">%1$s Table of %2$s</string>
+    <string name="close">Close</string>
+    <string name="power_ans">Correct Answer is %1$s</string>
+    <string name="normal_ans">Correct Answer is %1$s</string>
+    <string name="normal_format">"%1$s X %2$s = "</string>
+    <string name="power_format">"%1$s ^ %2$s = "</string>
+    <string name="ans">Answer</string>
+    <string name="required">*required</string>
+    <string name="wrong">Wrong ❌</string>
+    <string name="correct">Correct ✔️</string>
+    <string name="question_no">Question No. %1$s</string>
+    <string name="mt">Mixed Table</string>
+    <string name="pt">Power Table</string>
+    <string name="nt">Normal Table</string>
+    <string name="enter_no_of_questions">Enter No. of Questions</string>
+    <string name="ending_number_range">Ending Number Range</string>
+    <string name="starting_number_range">Starting Number Range</string>
+    <string name="select_style">Select %1$s Style</string>
+    <string name="finish">Finish</string>
+    <string name="number_must_be_greater_than_or_equal_to">Number must be greater than or equal to %1$s</string>
+    <string name="this_value_must_be_greater_than_or_equal_to_1">This value must be greater than or equal to 1</string>
+    <string name="enter_a_number">Enter a Number</string>
+    <string name="number_must_be_less_than_or_equal_to">Number must be less than or equal to %1$s</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
